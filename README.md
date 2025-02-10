@@ -27,11 +27,11 @@ The Ankita store want to create an annual store report for 2024. So that, The ow
 ![Dashboard Image](https://github.com/user-attachments/assets/fe64b805-b8cc-4031-9d8c-96dd5df9075f)
 
 ## Actionable insights
-Investigate the declining sales trend, considering factors like seasonality, competition, marketing effectiveness, and customer experience.
-Focus marketing efforts on the dominant female customer base.
-Optimize performance on key sales channels (Myntra, Amazon, Flipkart) and investigate the "Others" category.
-Analyze product category performance to inform inventory and marketing decisions.
-Investigate reasons for returns, refunds, and cancellations to improve processes and customer satisfaction.
-Leverage insights from top-performing states to enhance sales in other regions.
+- Investigate the declining sales trend, considering factors like seasonality, competition, marketing effectiveness, and customer experience.
+- Focus marketing efforts on the dominant female customer base.
+- Optimize performance on key sales channels (Myntra, Amazon, Flipkart) and investigate the "Others" category.
+- Analyze product category performance to inform inventory and marketing decisions.
+- Investigate reasons for returns, refunds, and cancellations to improve processes and customer satisfaction.
+- Leverage insights from top-performing states to enhance sales in other regions.
 
     

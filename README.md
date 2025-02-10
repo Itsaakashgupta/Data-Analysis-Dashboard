@@ -1,5 +1,5 @@
 # Ankita-Store-Date-Analysis (Interactive Dashboard creation using MS Excel)
-## PProject Objective
+## Project Objective
 The Ankita store want to create an annual store report for 2024. So that, The owner of Ankita store can understand their customer purchase behaviour and buying habit and can grow their sales in 2025.
 
 ## Dataset Used
